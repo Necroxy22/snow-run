@@ -21,11 +21,6 @@
   </a>
 </p>
 
-<p align="center">
-  <b>👉 <a href="https://necroxy22.itch.io/marathon-penguin">Marathon Penguin</a> 👈</b><br />
-  <sub>Bisa langsung dimainkan di browser — tanpa install!</sub>
-</p>
-
 ---
 
 ## 📥 Download
