@@ -16,13 +16,13 @@
 <!-- GANTI username.itch.io/marathon-penguin dengan URL itch.io aslimu (3 titik di file ini) -->
 
 <p align="center">
-  <a href="https://username.itch.io/marathon-penguin">
+  <a href="https://necroxy22.itch.io/marathon-penguin">
     <img src="https://img.shields.io/badge/🎮_Main_di_itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Main di itch.io" />
   </a>
 </p>
 
 <p align="center">
-  <b>👉 <a href="https://username.itch.io/marathon-penguin">username.itch.io/marathon-penguin</a> 👈</b><br />
+  <b>👉 <a href="https://necroxy22.itch.io/marathon-penguin">Marathon Penguin</a> 👈</b><br />
   <sub>Bisa langsung dimainkan di browser — tanpa install!</sub>
 </p>
 
@@ -98,21 +98,3 @@ Hindari 🦭 (reset ikan!) dan ⛄ (mendorong mundur). Kalau terdorong keluar ka
 - **Pause & Settings** — jeda kapan saja, atur volume musik, lanjutkan atau ulangi.
 
 ---
-
-## 🖼️ Screenshot
-
-<!-- Taruh gambarmu di folder Docs/ lalu uncomment contoh di bawah ini -->
-<!--
-<p align="center">
-  <img src="Docs/gameplay.png" width="280" alt="Gameplay" />
-  <img src="Docs/combo-boost.png" width="280" alt="Combo Boost" />
-  <img src="Docs/title-screen.png" width="280" alt="Title Screen" />
-</p>
--->
-
----
-
-<p align="center">
-  <b>🐧 Siap lari? 🐟</b><br />
-  <a href="https://username.itch.io/marathon-penguin"><b>🎮 MAIN MARATHON PENGUIN DI ITCH.IO 🎮</b></a>
-</p>
